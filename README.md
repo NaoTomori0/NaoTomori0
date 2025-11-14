@@ -1,16 +1,28 @@
-## Hi there 👋
+## Кто я такой?
+![Моя ава](https://avatars.githubusercontent.com/u/178963963?v=4)
 
-<!--
-**NaoTomori0/NaoTomori0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут NaoTomori
 
-Here are some ideas to get you started:
+### 🛠️ На каких языках программирования программируешь?
+- **📅 В данный момент активно программирую на следующих языках:**
+  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Godot](https://img.shields.io/badge/godot-%2300599C.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *📋 Также имеется опыт программирования на таких языках, как:*
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+
+
+### 🖼 Какие проекты ты прямо сейчас поддерживаешь?
+
+Мой главный проект, который я сейчас поддерживаю это игра Legacy: Forgotten Realms:
+<br>
+  <img src="https://i.pinimg.com/736x/5e/05/0d/5e050da0d03fe24b0ffc4a81ff0bd3c0.jpg" style="height: 200px; width: auto;" alt="LFR">
+</br>
+#### Телеграм проекта 🕹️
+[![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/archive/8/83/20211005135949%21Telegram_2019_Logo.svg/200px-Telegram_2019_Logo.svg.png)](https://t.me/lfrofficial)
