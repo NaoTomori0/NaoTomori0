@@ -3,7 +3,7 @@
 
 Меня зовут NaoTomori
 
-### 🛠️ На каких языках программирования программируешь?
+### 🛠️ На каких языках программируешь?
 - **📅 В данный момент активно программирую на следующих языках:**
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
