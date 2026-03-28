@@ -22,7 +22,8 @@
 
 Мой главный проект, который я сейчас поддерживаю это игра Legacy: Forgotten Realms:
 <br>
+<a href="https://legacyforgottenrealms.ru/" target="_blank">
   <img src="https://i.pinimg.com/736x/5e/05/0d/5e050da0d03fe24b0ffc4a81ff0bd3c0.jpg" style="height: 200px; width: auto;" alt="LFR">
-</br>
+</a>
 #### Телеграм проекта 🕹️
 [![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/archive/8/83/20211005135949%21Telegram_2019_Logo.svg/200px-Telegram_2019_Logo.svg.png)](https://t.me/lfrofficial)
