@@ -3,11 +3,11 @@
 
 Меня зовут NaoTomori
 
-[![](https://gh-readme-profile.vercel.app/api?username=NaoTomori0&theme=dark)](https://github.com/NaoTomori0/NaoTomori0/README.md)
+[![](https://gh-readme-profile.vercel.app/api?username=NaoTomori0&theme=dark)](https://github.com/NaoTomori0/NaoTomori0)
 
-[![](https://github-readme-stats-fast.vercel.app/api?username=NaoTomori0&show_icons=true&theme=dark)](https://github.com/NaoTomori0/NaoTomori0/README.md)
+[![](https://github-readme-stats-fast.vercel.app/api?username=NaoTomori0&show_icons=true&theme=dark)](https://github.com/NaoTomori0/NaoTomori0)
 
-[![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NaoTomori0&layout=donut&theme=dark)](https://github.com/NaoTomori0/NaoTomori0/README.md)
+[![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NaoTomori0&layout=donut&theme=dark)](https://github.com/NaoTomori0/NaoTomori0)
 
 
 ### 🛠️ На каких языках программируешь?
