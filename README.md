@@ -3,6 +3,13 @@
 
 Меня зовут NaoTomori
 
+![](https://gh-readme-profile.vercel.app/api?username=NaoTomori0&theme=dark)
+
+![](https://github-readme-stats-fast.vercel.app/api?username=NaoTomori0&show_icons=true&theme=dark)
+
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NaoTomori0&layout=donut&theme=dark)
+
+
 ### 🛠️ На каких языках программируешь?
 - **📅 В данный момент активно программирую на следующих языках:**
   
